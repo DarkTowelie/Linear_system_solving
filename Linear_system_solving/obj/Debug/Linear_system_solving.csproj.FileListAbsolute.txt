@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.exe
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.pdb
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.exe
+c:\users\user\documents\visual studio 2013\Projects\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.pdb
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.exe.config
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.exe
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\bin\Debug\Linear_system_solving.pdb
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.csprojAssemblyReference.cache
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.exe
+C:\Users\valer\source\repos\Linear_system_solving\Linear_system_solving\obj\Debug\Linear_system_solving.pdb
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\bin\Debug\Linear_system_solving.exe.config
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\bin\Debug\Linear_system_solving.exe
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\bin\Debug\Linear_system_solving.pdb
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\obj\Debug\Linear_system_solving.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\obj\Debug\Linear_system_solving.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\obj\Debug\Linear_system_solving.exe
+C:\Users\valer\Desktop\Linear_system_solving-master\Linear_system_solving\obj\Debug\Linear_system_solving.pdb
